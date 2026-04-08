@@ -37,23 +37,23 @@
 
 <h3>Visual Previews</h3>
 <p align="center">
-  <img src="preview1.png" alt="Preview of main directory structure" width="700"/>
+  <img src="preview1.jpg" alt="Preview of main directory structure" width="700"/>
   <br><br>
-  <img src="preview2.png" alt="Preview of drivers and tools available" width="700"/>
+  <img src="preview2.jpg" alt="Preview of drivers and tools available" width="700"/>
   <br><br>
-  <img src="preview3.png" alt="Preview of linux connection drivers" width="700"/>
+  <img src="preview3.jpg" alt="Preview of linux connection drivers" width="700"/>
   <br><br>
-  <img src="preview4.png" alt="Preview of fibocom module directories" width="700"/>
+  <img src="preview4.jpg" alt="Preview of fibocom module directories" width="700"/>
   <br><br>
-  <img src="preview5.png" alt="Preview of specific firmware applications" width="700"/>
+  <img src="preview5.jpg" alt="Preview of specific firmware applications" width="700"/>
   <br><br>
-  <img src="preview6.png" alt="Preview of router firmware folders" width="700"/>
+  <img src="preview6.jpg" alt="Preview of router firmware folders" width="700"/>
   <br><br>
-  <img src="preview7.png" alt="Preview of advanced flashing tools" width="700"/>
+  <img src="preview7.jpg" alt="Preview of advanced flashing tools" width="700"/>
   <br><br>
-  <img src="preview8.png" alt="Overview of the full directory layout" width="700"/>
+  <img src="preview8.jpg" alt="Overview of the full directory layout" width="700"/>
 </p>
-<p><i>Note to publisher: Please upload your eight screenshot images into this repository folder and name them preview1.png through preview8.png so they can be viewed here directly.</i></p>
+<p><i>Note to publisher: Please upload your eight screenshot images into this repository folder and name them preview1.jpg through preview8.jpg so they can be viewed here directly.</i></p>
 
 <h3>Direct Download Links</h3>
 <p>Because the total size of these files is very large, the archive bundles containing the firmwares, drivers, and tools are hosted on an external server. Please download all the individual parts using the secure links provided below to assemble the complete collection.</p>
