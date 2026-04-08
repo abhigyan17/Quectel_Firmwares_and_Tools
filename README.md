@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Quectel and Fibocom Firmware and Software Collection</h1>
+  <h1>Quectel Firmwares and Tools</h1>
 </div>
 
 <p>Welcome to this comprehensive software repository. This collection has been carefully assembled to provide you with everything necessary to operate, modify, and troubleshoot your cellular modem modules. Whether you are looking for the latest operating firmware to ensure your hardware runs smoothly, or you require specific computer drivers to establish a secure connection between your module and your personal computer, you will find all the essential files gathered here.</p>
