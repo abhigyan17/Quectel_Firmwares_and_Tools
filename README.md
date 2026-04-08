@@ -26,8 +26,11 @@
 <h3>Computer Software and Connecting Drivers</h3>
 <p>In order for your computer operating system to recognize your cellular module, very specific connection drivers are required. We supply an entire suite of software drivers for Windows based computers, which encompasses various connection methods such as Ethernet Control Model, Mobile Broadband Interface Model, and Network Driver Interface Specification. Additionally, we have included the necessary files to assist users running Linux operating systems.</p>
 
-<h3>Flashing Applications</h3>
-<p>Transferring new firmware onto your module requires specialized software tools. Included in this collection are the Quectel Firehose tool for Android and Linux environments, and the Quectel Deploy tool. These programs grant you the capability to confidently upgrade or restore your modem software effectively.</p>
+<h3>Flashing Applications and Management Tools</h3>
+<p>Transferring new firmware onto your module requires specialized software tools. Included in this collection are various versions of the Quectel Flash tool, including PCI Express and USB versions. We have also included the Quectel Firehose tool for Android and Linux environments, the Quectel Deploy tool, and the QNavigator utility for testing and debugging. For more advanced users, the Qualcomm Product Support Tool (QPST) and WinLog applications are also available to assist in deep system management and logging.</p>
+
+<h3>Router Firmware</h3>
+<p>In addition to cellular module files, we have included specific router firmware such as the Hiveton H5000M. This allows for a complete system restoration if you are working with compatible router hardware that utilizes these internal 5G modules.</p>
 
 <h3>Reference Documents and Instruction Manuals</h3>
 <p>Knowing how to command your module is just as important as having the right software. Therefore, we have included official product information brochures and detailed manuals explaining the Attention Commands. These commands will allow you to configure network settings and closely monitor the performance of your Quectel and Fibocom equipment. We have also included a helpful quick start guide created by Kasper to assist beginners in understanding the fundamental setup processes quickly and easily.</p>
@@ -43,8 +46,14 @@
   <img src="preview4.png" alt="Preview of fibocom module directories" width="700"/>
   <br><br>
   <img src="preview5.png" alt="Preview of specific firmware applications" width="700"/>
+  <br><br>
+  <img src="preview6.png" alt="Preview of router firmware folders" width="700"/>
+  <br><br>
+  <img src="preview7.png" alt="Preview of advanced flashing tools" width="700"/>
+  <br><br>
+  <img src="preview8.png" alt="Overview of the full directory layout" width="700"/>
 </p>
-<p><i>Note to publisher: Please upload your five screenshot images into this repository folder and name them preview1.png, preview2.png, preview3.png, preview4.png, and preview5.png so they can be viewed here directly.</i></p>
+<p><i>Note to publisher: Please upload your eight screenshot images into this repository folder and name them preview1.png through preview8.png so they can be viewed here directly.</i></p>
 
 <h3>Direct Download Links</h3>
 <p>Because the total size of these files is very large, the archive bundles containing the firmwares, drivers, and tools are hosted on an external server. Please download all the individual parts using the secure links provided below to assemble the complete collection.</p>
