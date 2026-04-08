@@ -53,7 +53,6 @@
   <br><br>
   <img src="preview8.jpg" alt="Overview of the full directory layout" width="700"/>
 </p>
-<p><i>Note to publisher: Please upload your eight screenshot images into this repository folder and name them preview1.jpg through preview8.jpg so they can be viewed here directly.</i></p>
 
 <h3>Direct Download Links</h3>
 <p>Because the total size of these files is very large, the archive bundles containing the firmwares, drivers, and tools are hosted on an external server. Please download all the individual parts using the secure links provided below to assemble the complete collection.</p>
